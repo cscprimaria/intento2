@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Contribuciones de los estudiantes de grado Quinto del CSC.
 
-baseurl: "/desinformacion" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
